@@ -19,7 +19,7 @@ streamlit run app.py
 #### Entity Extraction with Spacy
 ![](images/image03.png)
 
-#### Entity Extraction with Spacy
+#### Sentiment Analysis
 ![](images/image04.png)
 
 #### Text Summarization with Sumy/Gensim
