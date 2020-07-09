@@ -27,5 +27,4 @@ streamlit run app.py
 
 
 #### By
-+ Jesse E.Agbe(JCharis)
-+ Jesus Saves @JCharistech
++ Nilesh Verma(@techynilesh)
