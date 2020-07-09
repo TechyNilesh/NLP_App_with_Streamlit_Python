@@ -17,13 +17,13 @@ streamlit run app.py
 ![](images/image02.png)
 
 #### Entity Extraction with Spacy
-![](images/image04.png)
+![](images/image03.png)
 
 #### Entity Extraction with Spacy
-![](images/image05.png)
+![](images/image04.png)
 
 #### Text Summarization with Sumy/Gensim
-![](images/image06.png)
+![](images/image05.png)
 
 
 #### By
