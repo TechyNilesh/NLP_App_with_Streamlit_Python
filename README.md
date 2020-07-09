@@ -1,4 +1,5 @@
 ## NLP Based App with Streamlit
+![Spacy](https://img.shields.io/badge/Spacy-v2.3.1-blue) ![Gensim](https://img.shields.io/badge/Gensim-v3.8.3-green) ![streamlit](https://img.shields.io/badge/streamlit-0.62.0-orange) ![Heroku](https://img.shields.io/badge/Heroku-Cloud%20Application%20Platform-blue)
 + (NLPiffy) -Natural Language Processing on the Go
 
 #### Description
@@ -8,7 +9,7 @@
 ```bash
 streamlit run app.py
 ```
-
+##
 #### NLP App
 ![](images/image01.png)
 
