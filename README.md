@@ -23,7 +23,7 @@ streamlit run app.py
 ![](images/image04.png)
 
 #### Text Summarization with Sumy/Gensim
-![](images/image05.png)
+![](images/image06.png)
 
 
 #### By
